@@ -123,6 +123,7 @@ Please only use these commands for working stand-alone on your own computer with
     $ make clustertasks
     ```
 
+
 You can now perform Tekton development locally, just like in the Cloud IDE lab environment.
 
 ## Author
